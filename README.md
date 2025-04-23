@@ -12,10 +12,10 @@
 
 <!-- Contatos -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin-aqui" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/felipe-leal-vieira-93095033b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:lealvieirafelipe@gmail.com" target="_blank">
+  <a href="mailto:felipelvieira2011@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
