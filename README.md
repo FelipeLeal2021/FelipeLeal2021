@@ -71,9 +71,6 @@
 ---
 
 ### 🚀 Projetos em Destaque
-- [Formulário com Node.js + Email](https://github.com/FelipeLeal2021/formulario-node)
-- [Loja de Móveis React + Spring](https://github.com/FelipeLeal2021/loja-react-spring)
-- [Simulador de Terminal (Java)](https://github.com/FelipeLeal2021/simulador-terminal)
 - [+Meninas - Blog HTML/CSS](https://github.com/FelipeLeal2021/mais-meninas)
 
 ---
