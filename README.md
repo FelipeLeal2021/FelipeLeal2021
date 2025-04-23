@@ -12,7 +12,7 @@
 
 <!-- Contatos -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/seu-linkedin-aqui" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:lealvieirafelipe@gmail.com" target="_blank">
@@ -25,10 +25,10 @@
 <details>
   <summary>📖 Sobre mim</summary>
   
-  - 💻 Gosto de desenvolver projetos práticos com Node.js, React, Java e banco de dados MySQL/PostgreSQL.
-  - 📊 Também me interesso por automação, APIs e ferramentas de Business Intelligence.
-  - ✨ Curto participar de maratonas de programação e desafios técnicos.
-  - 🎯 Meu objetivo é trabalhar com desenvolvimento web e soluções inteligentes com IA no futuro.
+  - 💻 Desenvolvo projetos com Node.js, React, Java, Spring Boot e bancos de dados MySQL/PostgreSQL.
+  - 🧪 Curioso por APIs, automações e soluções inteligentes.
+  - 🎯 Participante ativo em projetos de extensão, desafios técnicos e maratonas de programação.
+  - 📚 Gosto de ensinar, aprender e compartilhar conhecimento.
 </details>
 
 ---
@@ -56,21 +56,21 @@
 
 ### 📈 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeLeal2021&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeLeal2021&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🧪 Projetos em Destaque
-- [Formulário de Cadastro com Node.js](https://github.com/seu-usuario/formulario-node)
-- [Loja Online com React + Spring Boot](https://github.com/seu-usuario/loja-react-spring)
-- [Terminal Virtual em JavaScript](https://github.com/seu-usuario/terminal-simulador)
-- [Projeto +Meninas - Blog com HTML e CSS](https://github.com/seu-usuario/mais-meninas)
+### 🚀 Projetos em Destaque
+- [Formulário com Node.js + Email](https://github.com/FelipeLeal2021/formulario-node)
+- [Loja de Móveis React + Spring](https://github.com/FelipeLeal2021/loja-react-spring)
+- [Simulador de Terminal (Java)](https://github.com/FelipeLeal2021/simulador-terminal)
+- [+Meninas - Blog HTML/CSS](https://github.com/FelipeLeal2021/mais-meninas)
 
 ---
 
-### 🎥 GIF ou Imagem Legal (opcional)
+### 🎥 GIF legal só porque sim 😄
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200"/>
 </p>
