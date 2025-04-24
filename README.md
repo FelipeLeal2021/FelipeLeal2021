@@ -6,9 +6,11 @@
 <!-- Apresentação -->
 <p align="center">
   🎓 Estudante de Sistemas de Informação no IFMG - Campus Ouro Branco <br>
-  🚀 Apaixonado por tecnologia, ensino e desenvolvimento web <br>
-  🧠 Atualmente aprendendo React, Spring Boot, API REST e automações com Python <br>
+  💻 Em formação Full Stack pela Mate Academy, explorando o desenvolvimento moderno de ponta a ponta <br>
+  🚀 Entusiasta de tecnologia, apaixonado por ensinar, aprender e criar soluções web incríveis <br>
+  🧠 Atualmente mergulhado em React, Spring Boot, APIs REST e automações inteligentes com Python <br>
 </p>
+
 
 <!-- Contatos -->
 <div align="center">
