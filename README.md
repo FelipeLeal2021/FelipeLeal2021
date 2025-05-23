@@ -75,8 +75,10 @@
 ## 💼 Projetos em Destaque
 
 ### 🔗 [+Meninas – Blog HTML/CSS](https://github.com/FelipeLeal2021/mais-meninas)
-
 Projeto educacional desenvolvido no IFMG – Campus Ouro Branco com o objetivo de ensinar HTML e CSS para meninas. O projeto promove inclusão, protagonismo feminino e autonomia na tecnologia.
+### 🔗 [Sark - Website Oficial](https://www.sark.com.br)
+### 🔗 [NossaArena - Plataforma Esportiva](https://www.nossaarena.com.br)
+
 
 👉 Veja a documentação completa e o código do projeto no repositório.
 
