@@ -72,9 +72,13 @@
 
 ---
 
-### 🚀 Projetos em Destaque
+## 💼 Projetos em Destaque
 
- 🔗 [+Meninas – Blog HTML/CSS]([https://felipeleal2021.github.io/mais-meninas/](https://github.com/FelipeLeal2021/mais-meninas))
+### 🔗 [+Meninas – Blog HTML/CSS](https://github.com/FelipeLeal2021/mais-meninas)
+
+Projeto educacional desenvolvido no IFMG – Campus Ouro Branco com o objetivo de ensinar HTML e CSS para meninas. O projeto promove inclusão, protagonismo feminino e autonomia na tecnologia.
+
+👉 Veja a documentação completa e o código do projeto no repositório.
 
 ---
 
