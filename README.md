@@ -74,7 +74,7 @@
 
 ### 🚀 Projetos em Destaque
 
- 🔗 [+Meninas – Blog HTML/CSS](https://felipeleal2021.github.io/mais-meninas/)
+ 🔗 [+Meninas – Blog HTML/CSS]([https://felipeleal2021.github.io/mais-meninas/](https://github.com/FelipeLeal2021/mais-meninas))
 
 ---
 
