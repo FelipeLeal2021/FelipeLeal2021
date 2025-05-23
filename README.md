@@ -77,11 +77,11 @@
 ### 🔗 [+Meninas – Blog HTML/CSS](https://github.com/FelipeLeal2021/mais-meninas)
 Projeto educacional desenvolvido no IFMG – Campus Ouro Branco com o objetivo de ensinar HTML e CSS para meninas. O projeto promove inclusão, protagonismo feminino e autonomia na tecnologia.
 
-### 🔗 [Sark - Website Oficial](https://www.sark.com.br)
+### 🔗 [Sark - E Commerce](https://github.com/FelipeLeal2021/sark-ecommerce)
 🛒 Loja Online – SARK
 E-commerce moderno e responsivo voltado para moda masculina, desenvolvido com foco em experiência do usuário, performance e escalabilidade. Inclui funcionalidades como vitrine de produtos, carrinho de compras e formulário de contato.
 
-### 🔗 [NossaArena - Plataforma Esportiva](https://www.nossaarena.com.br)
+### 🔗 [NossaArena - Plataforma Esportiva](https://github.com/FelipeLeal2021/NossaArena)
 Sistema de Gestão – NossaArena
 Sistema web desenvolvido para gerenciar quadras esportivas, com funcionalidades para controle de reservas, horários e lucros. Interface simples e eficiente, adaptada às necessidades administrativas da empresa.
 
