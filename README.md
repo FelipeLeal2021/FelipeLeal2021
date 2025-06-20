@@ -85,7 +85,7 @@ E-commerce moderno e responsivo voltado para moda masculina, desenvolvido com fo
 Sistema de Gestão – NossaArena
 Sistema web desenvolvido para gerenciar quadras esportivas, com funcionalidades para controle de reservas, horários e lucros. Interface simples e eficiente, adaptada às necessidades administrativas da empresa.
 
-### 🔗 [Landing Page MyBiKE](https://github.com/FelipeLeal2021/landing-page-README.md/blob/main/README.md)
+### 🔗 [Projeto 1 - Landing Page MyBiKE](https://github.com/FelipeLeal2021/landing-page-README.md/blob/main/README.md)
 🛒 Projeto 1 - Landing Page
 MyBiKE é uma landing page responsiva criada com HTML, SCSS e Parcel, que apresenta um produto de forma moderna e visualmente atrativa. O layout foi estruturado com a metodologia BEM, dividido em seções como hero, comparação de modelos, detalhes técnicos, formulário de contato e menu responsivo. O projeto foi finalizado com deploy via GitHub Pages.
 
