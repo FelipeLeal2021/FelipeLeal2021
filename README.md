@@ -85,6 +85,11 @@ E-commerce moderno e responsivo voltado para moda masculina, desenvolvido com fo
 Sistema de Gestão – NossaArena
 Sistema web desenvolvido para gerenciar quadras esportivas, com funcionalidades para controle de reservas, horários e lucros. Interface simples e eficiente, adaptada às necessidades administrativas da empresa.
 
+### 🔗 [Sark - E Commerce](https://github.com/FelipeLeal2021/sark-ecommerce)
+🛒 Projeto 1 - Landing Page
+E-commerce moderno e responsivo voltado para moda masculina, desenvolvido com foco em experiência do usuário, performance e escalabilidade. Inclui funcionalidades como vitrine de produtos, carrinho de compras e formulário de contato.
+
+Link do projeto: https://FelipeLeal2021.github.io/layout_landing-page/ 
 
 👉 Veja a documentação completa e o código do projeto no repositório.
 
