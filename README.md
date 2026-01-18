@@ -11,7 +11,6 @@
   🧠 Atualmente mergulhado em React, Spring Boot, APIs REST e automações inteligentes com Python <br>
 </p>
 
-
 <!-- Contatos -->
 <div align="center">
   <a href="https://www.linkedin.com/in/felipe-leal-vieira-93095033b/" target="_blank">
@@ -28,8 +27,6 @@
   </a>
 </div>
 
-
-
 ---
 
 <details>
@@ -43,7 +40,7 @@
 
 ---
 
-### 🧰 **Tecnologias que uso**
+## 🧰 Tecnologias que uso
 
 #### 🖥️ Linguagens de Programação
 <p>
@@ -74,10 +71,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" height="30"/>
 </p>
 
+---
+
+## 💼 Projetos Freelancer (WordPress)
+
+Projetos reais desenvolvidos como freelancer usando **WordPress**, com foco em **performance, responsividade e experiência do usuário**.
+
+### 🛒 E-commerce — Marcarte Oficial
+🔗 **Site:** https://marcarteoficial.com.br/  
+- Loja virtual em WordPress (e-commerce)
+- Layout responsivo e navegação otimizada para conversão
+
+### 🌿 Institucional — Novais Engenharia Ambiental
+🔗 **Site:** https://www.novaiseng.com.br/  
+- Site institucional para empresa de engenharia ambiental
+- Estrutura clara, seções informativas e design profissional
+
+### 🏕️ Landing Page — VT Locações
+🔗 **Site:** https://vtlocacoes.com/  
+- Landing page para empresa de tendas e banheiros químicos
+- Comunicação objetiva, CTA bem posicionado e foco em geração de leads
 
 ---
 
-### 📈 Estatísticas do GitHub
+## 📈 Estatísticas do GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FelipeLeal2021&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeLeal2021&layout=compact&theme=tokyonight" />
@@ -85,26 +102,28 @@
 
 ---
 
-## 💼 Projetos em Destaque
+## ⭐ Projetos em Destaque (GitHub)
 
 ### 🔗 [+Meninas – Blog HTML/CSS](https://github.com/FelipeLeal2021/mais-meninas)
 Projeto educacional desenvolvido no IFMG – Campus Ouro Branco com o objetivo de ensinar HTML e CSS para meninas. O projeto promove inclusão, protagonismo feminino e autonomia na tecnologia.
 
 ### 🔗 [Sark - E Commerce](https://github.com/FelipeLeal2021/sark-ecommerce)
-🛒 Loja Online – SARK
+🛒 Loja Online – SARK  
 E-commerce moderno e responsivo voltado para moda masculina, desenvolvido com foco em experiência do usuário, performance e escalabilidade. Inclui funcionalidades como vitrine de produtos, carrinho de compras e formulário de contato.
 
 ### 🔗 [NossaArena - Plataforma Esportiva](https://github.com/FelipeLeal2021/NossaArena)
-Sistema de Gestão – NossaArena
+Sistema de Gestão – NossaArena  
 Sistema web desenvolvido para gerenciar quadras esportivas, com funcionalidades para controle de reservas, horários e lucros. Interface simples e eficiente, adaptada às necessidades administrativas da empresa.
 
 ### 🔗 [Projeto 1 - Landing Page MyBiKE](https://github.com/FelipeLeal2021/landing-page-README.md/blob/main/README.md)
-🛒 Projeto 1 - Landing Page
-MyBiKE é uma landing page responsiva criada com HTML, SCSS e Parcel, que apresenta um produto de forma moderna e visualmente atrativa. O layout foi estruturado com a metodologia BEM, dividido em seções como hero, comparação de modelos, detalhes técnicos, formulário de contato e menu responsivo. O projeto foi finalizado com deploy via GitHub Pages.
-
-Link do projeto: https://FelipeLeal2021.github.io/layout_landing-page/ 
+🚲 Landing page responsiva criada com HTML, SCSS e Parcel, com metodologia BEM e seções bem estruturadas (hero, comparação de modelos, detalhes técnicos, formulário e menu responsivo).  
+**Deploy:** https://FelipeLeal2021.github.io/layout_landing-page/  
 
 👉 Veja a documentação completa e o código do projeto no repositório.
+
+### 🔗 [Gestão RH (Protótipo) — Projeto em andamento](https://github.com/FelipeLeal2021/gestao-rh-prototipo)
+🧑‍💼 Protótipo de um sistema de **Gestão de RH**, ainda em desenvolvimento, com foco em organizar processos e rotinas do setor.  
+**Preview (GitHub Pages):** https://felipeleal2021.github.io/gestao-rh-prototipo/index.html
 
 ---
 
