@@ -33,6 +33,7 @@
   <summary>📖 Sobre mim</summary>
   
   - 💻 Desenvolvo projetos com Node.js, React, Java, Spring Boot e bancos de dados MySQL/PostgreSQL.
+  - 🧩 Também atuo com WordPress + Elementor (sites institucionais, landing pages e e-commerce).
   - 🧪 Curioso por APIs, automações e soluções inteligentes.
   - 🎯 Participante ativo em projetos de extensão, desafios técnicos e maratonas de programação.
   - 📚 Gosto de ensinar, aprender e compartilhar conhecimento.
@@ -46,6 +47,7 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" height="30"/>
@@ -59,6 +61,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" height="30" style="filter: invert(100%)"/>
+</p>
+
+#### 🧩 WordPress & Page Builder
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" title="WordPress" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/elementor.svg" title="Elementor" height="30"/>
 </p>
 
 #### 🛠️ Banco de Dados & Ferramentas
@@ -75,11 +83,11 @@
 
 ## 💼 Projetos Freelancer (WordPress)
 
-Projetos reais desenvolvidos como freelancer usando **WordPress**, com foco em **performance, responsividade e experiência do usuário**.
+Projetos reais desenvolvidos como freelancer usando **WordPress + Elementor**, com foco em **performance, responsividade e experiência do usuário**.
 
 ### 🛒 E-commerce — Marcarte Oficial
 🔗 **Site:** https://marcarteoficial.com.br/  
-- Loja virtual em WordPress (e-commerce)
+- Loja virtual em WordPress
 - Layout responsivo e navegação otimizada para conversão
 
 ### 🌿 Institucional — Novais Engenharia Ambiental
