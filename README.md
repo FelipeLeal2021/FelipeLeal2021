@@ -102,6 +102,23 @@ Projetos reais desenvolvidos como freelancer usando **WordPress + Elementor**, c
 
 ---
 
+## 🥩 Protótipos Cia Carne
+
+Série de protótipos visuais desenvolvidos para explorar diferentes direções de layout, experiência de navegação e apresentação comercial para um e-commerce da **Cia Carne**.
+
+### 🔗 [Protótipo 1 — Cia Carne](https://felipeleal2021.github.io/Cia-Carne-prot-tipo-1/index.html)
+Primeira proposta visual do projeto, com foco em estruturar a base da vitrine, navegação inicial e identidade do e-commerce.
+
+### 🔗 [Protótipo 2 — Cia Carne](https://felipeleal2021.github.io/Cia-Carne-prot-tipo-2/index.html)
+Evolução do conceito inicial, trazendo melhorias na organização visual, apresentação dos produtos e experiência geral da loja.
+
+### 🔗 [Protótipo 3 — Cia Carne](https://felipeleal2021.github.io/Cia-Carne-prot-tipo-3/index.html)
+Versão mais refinada e premium do projeto, com home mais impactante, catálogo mais comercial, carrinho visual e fluxo de checkout mais completo.
+
+---
+
+---
+
 ## 📈 Estatísticas do GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FelipeLeal2021&show_icons=true&theme=tokyonight" />
